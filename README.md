@@ -2,7 +2,7 @@
 
 You can create a Board, within it you can create individual threads and then relpy to each of the threads. You can report the thread or reply for abuse. Each thread or reply can be deleted with the correct password inputted.
 
-###User Stories
+### User Stories
 
 1. Only allow your site to be loading in an iFrame on your own pages.
 2. Do not allow DNS prefetching.
